@@ -4,12 +4,12 @@ In this assignment, you will learn and practice some basic tools every developer
 
 **Exercises**
 
-Go through the following tutorial on Unix shell:
+1. Go through the following tutorial on Unix shell:
 https://swcarpentry.github.io/shell-novice/
 
 **Record your shell session and submit it (see note below on how to record your session)**
 
-Install Git on your Ubuntu app
+2. Install Git on your Ubuntu app
 
 ```$  sudo apt get install git```
 
@@ -17,7 +17,7 @@ Read through the excellent reference on GIT : https://git-scm.com/book/en/v2. Pl
 
 Pls. go through the hands-on exercises in the book and try it out using a private repo on GitHub. **Record your session and submit it and share the GitHub repository.**
 
-Install Miniconda (not Conda enterprise or navigator) on your ubuntu App from the following link (use the linux 64 bit installer):
+3. Install Miniconda (not Conda enterprise or navigator) on your ubuntu App from the following link (use the linux 64 bit installer):
 	[https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
 
 Go through the [Getting Started Guide](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html) and try out the commands in the guide. **Record your session and submit it.**
